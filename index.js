@@ -19,7 +19,7 @@ const data = [
     'score': 95,
     'contract_type': 'FT',
     'job_title': 'Optometrist',
-    'image': '1.jpg'
+    'image': 'https://crawfordeyecare.com/wp-content/uploads/Office_Interior_Small.jpg'
   },
   {
     'id': 2,
@@ -30,7 +30,7 @@ const data = [
     'score': 90,
     'contract_type': 'FT',
     'job_title': 'Optician',
-    'image': '1.jpg'
+    'image': 'https://crawfordeyecare.com/wp-content/uploads/Office_Interior_Small.jpg'
   },
   {
     'id': 3,
@@ -41,7 +41,7 @@ const data = [
     'score': 88,
     'contract_type': 'PT',
     'job_title': 'Optician',
-    'image': '2.jpg'
+    'image': 'http://drvooptometry.com/wp-content/uploads/2013/05/Office2.jpeg'
   },
   {
     'id': 4,
@@ -52,7 +52,7 @@ const data = [
     'score': 80,
     'contract_type': 'FT',
     'job_title': 'Opthalmic Technician',
-    'image': '3.jpg'
+    'image': 'http://www.stcharlesvision.com/wp-content/uploads/2016/03/140410-boutte-027-1024x681.jpg'
   },
   {
     'id': 5,
@@ -63,7 +63,7 @@ const data = [
     'score': 75,
     'contract_type': 'FT',
     'job_title': 'Front Desk Receptionist',
-    'image': '3.jpg'
+    'image': 'http://www.stcharlesvision.com/wp-content/uploads/2016/03/140410-boutte-027-1024x681.jpg'
   }
 ];
 
